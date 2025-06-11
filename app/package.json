@@ -1,0 +1,12 @@
+{
+  "name": "time-tracker",
+  "description": "Time tracker",
+  "author": {
+    "name": "Danniel Dev",
+    "email": "me@danniel.dev"
+  },
+  "version": "1.0.0",
+  "main": "main.js",
+  "private": true,
+  "dependencies": {}
+}
